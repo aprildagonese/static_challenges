@@ -1,0 +1,34 @@
+h1 {
+  background-color: tomato;
+  font-size: 38;
+  padding: 20;
+}
+
+.sub-head-block {
+  background-color: gray;
+  padding: 20;
+}
+
+.main-block {
+  width: 65%;
+}
+
+.main-block img {
+  width: 100%;
+  height: auto;
+  padding: 25;
+}
+
+.main-block h2 {
+  font-size: 25;
+  padding-bottom: 15;
+}
+
+.main-text {
+  padding: 25;
+}
+
+footer {
+  background-color: gray;
+  padding: 20;
+}
